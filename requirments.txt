@@ -1,0 +1,8 @@
+torch
+numpy
+matplotlib
+tqdm
+psutil
+transformers
+tokenizers
+flash-attn
